@@ -1,0 +1,144 @@
+header{
+    height: 100px;
+    background-color: #03210b;
+    padding: 0;
+    margin-left: 15%;
+    margin-right: 15%;
+    /* Включаем режим Flexbox. */
+    display: flex;
+    /* Распределяем элементы внутри шапки */
+    /* Выравниваем элементы вертикально по центру. */
+    align-items: center;
+}
+footer {
+    height: 70px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #083715;
+}
+body {
+    background-image: url(materials/thumb-1920-1057137.png);
+    margin: 0px;
+}
+A {
+    text-decoration: none;
+}
+h1 {
+    color: rgb(202, 249, 130);
+}
+p {
+    margin: 0;
+
+}
+footer {
+
+
+    background-color: #03210b;
+    border-top: 3px solid #232224;
+
+}
+.img-head {
+    float: left;
+    width: 50px;
+    height: 50px;
+    padding-left: 5%;
+    padding-right: 1%;
+}
+.footer-text {
+    color: rgb(202, 249, 130);
+}
+.exit {
+    color: white;
+    padding-left: 60%;
+    font-size:20px;
+
+}
+.hel {
+
+    font-size:18px;
+    padding-top: 20px;
+}
+.sec {
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 1200px;
+}
+.balance {
+    font-size:18px;
+
+}
+.tab1 {
+    float: left;
+}
+.addCard{
+
+
+}
+.div1{
+    color: #70B603;
+    white-space: normal;
+    margin-top: 15px;
+    margin-left: 70px;
+    margin-right: 10px;
+    border: 2px solid #70B603;
+    height: 200px;
+    width: 250px;
+    float: left;
+
+}
+.div2{
+    color: #DC851F;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 200px;
+    width: 250px;
+    border: 2px solid #DC851F;
+    float: left;
+
+}
+.div3 {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 200px;
+    width: 250px;
+    border: 2px solid #333333;
+    float: left;
+
+}
+.stat{
+
+    margin-left: 19.5%;
+}
+.divh {
+    background-color: #EEE8AA;
+
+}
+.statTable{
+    margin-left: 17.8%;
+
+}
+.statTrat{
+    margin-left: 19.5%;
+}
+.footer-text {
+    padding-left: 80%;
+}
+
+
+
+
+table {
+    border-spacing: 3px; /* Расстояние между ячеек */
+}
+thead  th {
+    background: #e08156; /* Цвет фона заголовка */
+    color: #333; /* Цвет текста */
+}
+td, th {
+    padding: 5px; /* Поля в ячейках */
+    background: #9ACD32; /* Цвет фона ячеек */
+    color: black; /* Цвет текста */
+}
